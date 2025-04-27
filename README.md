@@ -1,2 +1,2 @@
 # github-action-learn
-Repository for github action certification learning
+Repository for Github action certification learning
